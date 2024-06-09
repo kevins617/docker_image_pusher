@@ -1,1 +1,1 @@
-alpine
+jxxghp/moviepilot:1.9.4
