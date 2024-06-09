@@ -1,1 +1,1 @@
-jxxghp/MoviePilot
+jxxghp/MoviePilot:1.9.4
