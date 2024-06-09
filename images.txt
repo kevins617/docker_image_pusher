@@ -1,1 +1,2 @@
 jxxghp/MoviePilot:1.9.4
+python:alpinw3.19
