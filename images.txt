@@ -1,1 +1,1 @@
-jxxghp/MoviePilot:1.9.5
+jxxghp/moviepilot:1.9.5
