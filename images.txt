@@ -1,1 +1,2 @@
-jxxghp/moviepilot:1.9.5
+nyanmisaka/jellyfin:latest
+
