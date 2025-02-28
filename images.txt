@@ -1,1 +1,1 @@
-lilixxs666/gsuid-core:v1.0.0
+lilixxs666/gsuid-core:dev
